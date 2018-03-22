@@ -1,0 +1,52 @@
+html{
+  font-family: Helvetica, Arial, sans-serif;
+}
+span{
+  font-weight: 200;
+}
+h5{
+  margin: 0;
+}
+h1{
+  margin: 0;
+  margin-bottom: 18px;
+}
+a{
+text-decoration: none;
+color: #ff0000;
+}
+#Project{
+  margin-bottom: 15px;
+}
+#Life{
+  margin-top: 15px;
+}
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+#textx{
+  position: relative;
+  background-size: cover;
+  max-width: 351px;
+padding-bottom: 40px;
+}
+.textz{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#second{
+display: flex;
+}
+.secondx{
+  margin-left: 45px;
+}
+#imgx{
+max-height: 350px;
+width: 600px;
+margin-top: 60px;
+margin-left: 40px;
+}
+#first{
+display: flex;
+}
